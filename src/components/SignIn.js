@@ -29,6 +29,7 @@ const SignIn = ({ history }) => {
     if (currentUser) {
         return <Redirect to="/" />;
     }
+    
 
     return (
         <div>
