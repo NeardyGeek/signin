@@ -33,7 +33,6 @@ const Transaction = () => {
         });
 
         
-
         return (
             <>
             <div className = "top">
