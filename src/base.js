@@ -2,7 +2,6 @@ import * as firebase from "firebase/app";
 import "firebase/auth";
 import 'firebase/firestore';
 
-
 const app = firebase.initializeApp({
     apiKey: "AIzaSyBYfOwyu_K-EWFKJISujZoGutkWheg3s-I",
     authDomain: "stage2-assesment.firebaseapp.com",
