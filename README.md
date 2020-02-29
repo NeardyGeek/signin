@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 run these to enable the firebase:
 
 ### `npm init`
+
 ### `npm install --save firebase`
 
 ## Available Scripts
@@ -72,3 +73,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Warning!!!
+
+DON'T RELOAD PAGE WHEN YOU VISITED ON THE GITHUB PAGE IF YOU DID THEN JUST PLEASE USE THIS ADDRESS https://neardygeek.github.io/signin
+YOU CAN DO ANY OPERATION WHEN THIS WEBSITE RUNNING ON LOCAL HOST.
